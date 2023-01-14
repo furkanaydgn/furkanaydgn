@@ -1,6 +1,5 @@
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=furkanaydgn&show_icons=true">
 
 <h1>Hello  👋</h1>
 
