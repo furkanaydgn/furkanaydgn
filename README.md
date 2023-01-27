@@ -4,9 +4,7 @@ Hi 👋 My name is Furkan Aydoğan
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Istanbul, Turkey
 * 🖥️  See my portfolio at [Repos](http://github.com/furkanaydgn?tab=repositories)
-* ✉️  You can contact me at [furkanaydogance@gmail.com](mailto:furkanaydogance@gmail.com)
 * 🧠  I'm learning React.js, Next.js and Tailwind
 * 🤝  I'm open to collaborating on interesting projects
 
